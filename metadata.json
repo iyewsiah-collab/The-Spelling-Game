@@ -1,0 +1,6 @@
+{
+  "name": "Let's Play The Spelling Game",
+  "description": "A digital educational spelling game inspired by the Cambridge Supermind Year 1 textbook (SB p33). Supports differentiated tiers for remedial, engagement, and enrichment pupils with speech synthesis and AI sentence feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
